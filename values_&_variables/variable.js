@@ -1,6 +1,6 @@
+{{
 /// ~ Simple Examples ==>
 // * 1. Integers and String:
-{{
 
 var x = 10
 let y = 'hello'
