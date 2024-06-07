@@ -87,11 +87,11 @@ console.log(l,l2);
    
    [ 23, 55, 33 ]
    
-   { name: 'Roshan', age: 19 }
+   { name: 'Rohan', age: 19 }
    
    -1
    
-   { name: 'Roshan', rollNo: 117, age: 19, department: 'CS' }
+   { name: 'Rohan', rollNo: 54, age: 19, department: 'CS' }
    
    [ 1, 2, 3, 4, 5 ]
    
