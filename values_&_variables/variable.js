@@ -82,7 +82,27 @@ let l2 = l;
 l2.push(7)
 console.log(l,l2);
 
-}}
+}}`»
+   [ 10, 'hello' ]
+   
+   [ 23, 55, 33 ]
+   
+   { name: 'Roshan', age: 19 }
+   
+   -1
+   
+   { name: 'Roshan', rollNo: 117, age: 19, department: 'CS' }
+   
+   [ 1, 2, 3, 4, 5 ]
+   
+   { name: 'Alice', age: 30 }
+   
+   3
+   
+   [ 20, 45 ]
+   
+   [ [ 1, 2, 3, 7 ], [ 1, 2, 3, 7 ] ]
+   «`
    
   
     
